@@ -1,5 +1,5 @@
 import { describe, it, expect } from 'vitest'
-import { greeter } from "../src/main.js"
+import { greeter } from '../src/main.js'
 
 describe('greeter function', () => {
   // Assert greeter result
